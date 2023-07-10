@@ -26,7 +26,11 @@
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
   </div>
-</template>
+  <div>
+    <p class="mainText">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur nihil libero nulla, iusto odio distinctio eligendi voluptatibus dignissimos labore rerum, sint minus ea ducimus enim commodi expedita mollitia exercitationem fugit?</p>
+  </div>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, dolorem deleniti laborum iure sed ea modi consectetur dignissimos incidunt, eius id delectus odit qui veniam optio, maiores sint adipisci pariatur?</p>
+  </template>
 
 <script>
 export default {
